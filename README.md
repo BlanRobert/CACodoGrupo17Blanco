@@ -1,2 +1,3 @@
 # CACodoGrupo17Blanco
-Trabajo integrador front 27/4
+Trabajo integrador final 31/5/2024
+lo voy a seguir reformando
